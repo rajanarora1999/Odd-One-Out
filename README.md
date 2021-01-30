@@ -7,3 +7,5 @@ It Uses Word2Vec Model which is a pre trained model by Google. It has a 300 size
 Words in a similar context have similar vectors. SO the Odd word is the most unsimilar to the average vector.
 
 Similarity is calculated using cosine similarity.
+
+Link To The Dataset: https://www.kaggle.com/leadbest/googlenewsvectorsnegative300
